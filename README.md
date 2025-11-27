@@ -44,5 +44,7 @@
 ### 贡献者
 - Hobonn（主要负责音源整理）
 - geek-share-2025（主要负责仓库维护）
+- chillpandas92（主要负责Releases发布与更新）
+
 
 
